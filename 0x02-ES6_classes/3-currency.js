@@ -2,7 +2,7 @@
  * Currency class to represent a currency with code and name.
  */
 export default class Currency {
-    /**
+  /**
    * Creates an instance of Currency.
    * @param {string} code - The code of the currency.
    * @param {string} name - The name of the currency.
